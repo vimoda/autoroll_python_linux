@@ -1,0 +1,4 @@
+direccion_perfiles=/home/tu_usuario_linux/.mozilla/firefox/
+activar_bonus_btc=n
+activar_bonus_rp=n
+ventanavisible=si
